@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Saravanan Mathivanan
+Dynamic Programming
+The concept is to solve a problem with a progam where it is solved once and stored and when the same problem reoccurs, then it can be retrieved and resued. 
